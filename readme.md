@@ -30,10 +30,10 @@
 
 - SweetAlert2
 
-## 🚀 See the app running [Here](https://weather-xi-flax.vercel.app/)
+## 🚀 See the app running [Here](https://weather-devshailesh.vercel.app/)
 
   
 
 ### Get in touch: 👇
 
-[![InstagramBadge](https://img.shields.io/badge/-@__shailesh_-yadav-D60187?style=flat-square&labelColor=D60187&logo=instagram&logoColor=white&link=https://instagram.com/__shailesh__yadav)](https://instagram.com/__shailesh__yadav) [![Linkedin Badge](https://img.shields.io/badge/-Shailesh%20Yadav-1B63F5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devshailesh/)](https://www.linkedin.com/in/devshailesh/)
+[![InstagramBadge](https://img.shields.io/badge/-@__shailesh_yadav-D60187?style=flat-square&labelColor=D60187&logo=instagram&logoColor=white&link=https://instagram.com/__shailesh__yadav)](https://instagram.com/__shailesh__yadav) [![Linkedin Badge](https://img.shields.io/badge/-Shailesh%20Yadav-1B63F5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devshailesh/)](https://www.linkedin.com/in/devshailesh/)
